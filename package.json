@@ -1,19 +1,19 @@
 {
-  "name": "jellyfish.js-template-minimal",
-  "version": "0.0.1",
-  "description": "Clone this template to set up Jellyfish, and nothing else.",
-  "main": "dist/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Jellyfish",
-  "license": "MIT",
-  "dependencies": {
-    "jellyfish.js": "0.0.3",
-    "matter-js": "^0.16.1"
-  },
-  "devDependencies": {
-    "webpack": "^5.24.3",
-    "webpack-cli": "^4.5.0"
-  }
+    "name": "jellyfish.js-template-minimal",
+    "version": "0.0.1",
+    "description": "Clone this template to set up Jellyfish, and nothing else.",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jellyfish",
+    "license": "MIT",
+    "dependencies": {
+        "jellyfish.js": "0.0.3",
+        "matter-js": "^0.16.1"
+    },
+    "devDependencies": {
+        "webpack": "^5.24.3",
+        "webpack-cli": "^4.5.0"
+    }
 }
