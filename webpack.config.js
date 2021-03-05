@@ -7,4 +7,5 @@ module.exports = {
         path: path.join(__dirname, '/dist'),
     },
     mode: process.env.NODE_ENV || 'development',
+    devtool: false,
 }
