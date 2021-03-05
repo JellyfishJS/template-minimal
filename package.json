@@ -11,7 +11,8 @@
     "license": "MIT",
     "dependencies": {
         "jellyfish.js": "0.0.3",
-        "matter-js": "^0.14.2"
+        "matter-js": "^0.14.2",
+        "serve-handler": "^6.1.3"
     },
     "devDependencies": {
         "webpack": "^5.24.3",
