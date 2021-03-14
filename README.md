@@ -12,3 +12,10 @@ To use this template:
 - Otherwise,
     [download this repository](https://github.com/JellyfishJS/template-minimal/archive/main.zip)
     and edit it from there.
+
+To build and run the game, run
+
+```sh
+npm run build
+npm start
+```
